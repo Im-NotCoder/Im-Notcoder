@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs</h2>
+<h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Im-Notcoder&show_icons=true&theme=radical&border_radius=20" width="48%" />
