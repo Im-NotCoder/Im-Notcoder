@@ -25,7 +25,7 @@
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Im-Notcoder&show_icons=true&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Im-Notcoder&show_icons=true&theme=radical&border_radius=20" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Notcoder&theme=radical&border_radius=20" width="48%" />
 </p>
 
