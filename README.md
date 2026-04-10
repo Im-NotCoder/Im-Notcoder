@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=Im-Notcoder&cc=000&tc=00ff00&ic=fff000&bc=fff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Notcoder&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Im-Notcoder&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
