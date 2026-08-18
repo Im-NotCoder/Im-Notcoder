@@ -24,8 +24,11 @@
 
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
-<a href="https://github.com/Im-Notcoder"><img src="https://anya-github-stats.vercel.app/api/stats?username=Im-Notcoder&theme=neon_dreams&border_radius=22&hide=pinned&section_spacing=7" alt="Im-Notcoder's GitHub Stats" /></a>
-
+<p align="center">
+  <a href="https://github.com/Im-Notcoder">
+    <img src="https://anya-github-stats.vercel.app/api/stats?username=Im-Notcoder&theme=neon_dreams&border_radius=22&hide=pinned&section_spacing=7" alt="Im-Notcoder's GitHub Stats" />
+  </a>
+</p>
 ---
 
 <h2 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h2>
