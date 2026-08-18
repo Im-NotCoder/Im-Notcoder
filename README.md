@@ -25,14 +25,15 @@
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Im-Notcoder&show_icons=true&theme=radical&border_radius=20" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Notcoder&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Im-Notcoder&show_icons=true&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Im-Notcoder&theme=radical&border_radius=20" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=Im-Notcoder&cc=000&tc=00ff00&ic=fff000&bc=fff" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Im-Notcoder&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Im-Notcoder&layout=compact&theme=radical&border_radius=20" width="48%" />
 </p>
+
 
 ---
 
