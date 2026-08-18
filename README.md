@@ -24,16 +24,7 @@
 
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Im-Notcoder&show_icons=true&theme=radical&border_radius=20" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Im-Notcoder&theme=radical&border_radius=20" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=Im-Notcoder&cc=000&tc=00ff00&ic=fff000&bc=fff" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Im-Notcoder&layout=compact&theme=radical&border_radius=20" width="48%" />
-</p>
-
+<a href="https://github.com/Im-Notcoder"><img src="https://anya-github-stats.vercel.app/api/stats?username=Im-Notcoder&theme=neon_dreams&border_radius=22&hide=pinned&section_spacing=7" alt="Im-Notcoder's GitHub Stats" /></a>
 
 ---
 
