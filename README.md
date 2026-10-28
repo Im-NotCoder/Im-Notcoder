@@ -74,11 +74,12 @@
 
 <p align="center">
   <a href="https://t.me/KingxAra">
-  <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
-</a>
+    <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
+  </a>
   <a href="https://instagram.com/careless__02">
     <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
+  <br>
   <a href="https://raushan-pal.vercel.app">
     <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
   </a>
