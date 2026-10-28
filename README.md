@@ -65,17 +65,17 @@
 
 <p align="center">
   <a href="https://t.me/KingxAra">
-    <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
+    <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" width="40%"/>
   </a>
   <a href="https://instagram.com/careless__02">
-    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="40%"/>
   </a>
   <br>
   <a href="https://raushan-pal.vercel.app">
-    <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="40%"/>
   </a>
   <a href="mailto:botspurvi@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="40%"/>
   </a>
 </p>
 
@@ -85,13 +85,12 @@
 
 <p align="center">
   <a href="https://t.me/purvi_updates">
-    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="40%"/>
   </a>
   <a href="https://t.me/purvi_bots">
-    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="40%"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
