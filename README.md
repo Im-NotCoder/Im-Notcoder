@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Im-Notcoder&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&labelColor=000000" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Im-Notcoder&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&labelColor=000000" width="50%"/>
 </p>
 ---
 
