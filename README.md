@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Notcoder/Im-Notcoder/output/snake.svg" width="500"/>
+  <img src="https://raw.githubusercontent.com/Im-Notcoder/Im-Notcoder/output/snake.svg" width="600"/>
 </p>
 
 ---
