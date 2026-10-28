@@ -24,11 +24,26 @@
 
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
-<p align="center">
-  <a href="https://github.com/Im-Notcoder">
-    <img src="https://anya-github-stats.vercel.app/api/stats?username=Im-Notcoder&theme=neon_dreams&border_radius=22&hide=pinned&section_spacing=7" alt="Im-Notcoder's GitHub Stats" />
-  </a>
-</p>
+<a href="https://github.com/Im-Notcoder">
+  <img src="https://anya-github-stats.vercel.app/api/profile?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Profile" width="100%" />
+</a>
+
+<a href="https://github.com/Im-Notcoder">
+  <img src="https://anya-github-stats.vercel.app/api/langstack?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Languages" width="100%" />
+</a>
+
+<a href="https://github.com/Im-Notcoder">
+  <img src="https://anya-github-stats.vercel.app/api/contribution-act?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Contributions" width="100%" />
+</a>
+
+<a href="https://github.com/Im-Notcoder">
+  <img src="https://anya-github-stats.vercel.app/api/streak?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Streak" width="100%" />
+</a>
+
+<a href="https://github.com/Im-Notcoder">
+  <img src="https://anya-github-stats.vercel.app/api/trophies?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Trophies" width="100%" />
+</a>
+
 ---
 
 <h2 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h2>
