@@ -10,7 +10,7 @@
   <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" style="border-radius:50%;" />
 </p>
 
-<h2 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀᴀᴜsʜᴀɴ ᴘᴀʟ 👀 </h2>
+<h1 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀᴀᴜsʜᴀɴ ᴘᴀʟ 👀 </h1>
 
 <p align="center">
   👨‍💻 ᴄᴜsᴛᴏᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 📢 sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʙᴀɴɴᴇʀ | 🎮 ɢᴀᴍᴇʀ
@@ -61,21 +61,22 @@
 
 ---
 
+
 <h1 align="center">📫 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h1>
 
 <p align="center">
   <a href="https://t.me/KingxAra">
-    <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" width="30%"/>
+    <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" width="180"/>
   </a>
   <a href="https://instagram.com/careless__02">
-    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="30%"/>
+    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="180"/>
   </a>
   <br>
   <a href="https://raushan-pal.vercel.app">
-    <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="30%"/>
+    <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="180"/>
   </a>
   <a href="mailto:botspurvi@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="30%"/>
+    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="180"/>
   </a>
 </p>
 
@@ -85,12 +86,13 @@
 
 <p align="center">
   <a href="https://t.me/purvi_updates">
-    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="30%"/>
+    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="180"/>
   </a>
   <a href="https://t.me/purvi_bots">
-    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="30%"/>
+    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="180"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
