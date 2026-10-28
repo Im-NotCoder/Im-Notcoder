@@ -51,11 +51,8 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Im-Notcoder&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Im-Notcoder?style=for-the-badge&label=FOLLOWERS&color=blue"/>
-<img src="https://img.shields.io/github/stars/Im-Notcoder?style=for-the-badge&label=STARS&color=yellow"/>
+  <img src="https://komarev.com/ghpvc/?username=Im-Notcoder&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&labelColor=000000" width="100%"/>
 </p>
-
 ---
 
 <p align="center">
