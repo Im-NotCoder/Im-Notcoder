@@ -61,7 +61,7 @@
 
 ---
 
-<h2 align="center">📫 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
+<h1 align="center">📫 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h1>
 
 <p align="center">
   <a href="https://t.me/KingxAra">
@@ -81,7 +81,7 @@
 
 ---
 
-<h2 align="center">🤝 ᴊᴏɪɴ ᴜs</h2>
+<h1 align="center">🤝 ᴊᴏɪɴ ᴜs</h1>
 
 <p align="center">
   <a href="https://t.me/purvi_updates">
