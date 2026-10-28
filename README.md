@@ -49,7 +49,9 @@
 <h2 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,linux,bash,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,linux,bash,mysql" />
 </p>
 
 ---
