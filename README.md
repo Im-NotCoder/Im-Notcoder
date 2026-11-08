@@ -24,24 +24,9 @@
 
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
-<a href="https://github.com/Im-Notcoder">
-  <img src="https://anya-github-stats.vercel.app/api/banner?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Banner" width="100%" />
-</a>
-
-
-<a href="https://github.com/Im-Notcoder">
-  <img src="https://anya-github-stats.vercel.app/api/contribution-act?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Contributions" width="100%" />
-</a>
-
 <a href="https://github.com/Im-NotCoder">
-  <img src="https://anya-github-stats.vercel.app/api/langstack?username=Im-NotCoder&theme=tokyonight" alt="Im-NotCoder GitHub Languages" width="100%" />
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=Im-NotCoder&theme=tokyonight" alt="Im-NotCoder GitHub Stats" width="100%" />
 </a>
-
-
-<a href="https://github.com/Im-Notcoder">
-  <img src="https://anya-github-stats.vercel.app/api/trophies?username=Im-Notcoder&theme=tokyonight" alt="Im-Notcoder GitHub Trophies" width="100%" />
-</a>
-
 ---
 
 <h1 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h1>
